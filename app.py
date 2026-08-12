@@ -98,7 +98,7 @@ def split_and_merge_images(uploaded_files):
 
 # ================= STREAMLIT APP =================
 
-st.title("📄 A4 Long Image PDF Splitter")
+st.title("📄 WebToons to A4 page PDF maker")
 st.markdown(
     "Upload long images (manhwa, comics, infographics). "
     "They will be split and merged into continuous A4 pages."
